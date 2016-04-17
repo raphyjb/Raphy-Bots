@@ -1,0 +1,34 @@
+{
+  "name": "break-bot-v5",
+  "version": "5.0.0",
+  "description": "OP",
+  "main": "F.JS",
+  "dependencies": {
+    "agario-client": "latest",
+    "https-proxy-agent": "latest",
+    "ws": "latest",
+    "socket.io": "latest",
+    "socket.io-client": "latest",
+    "socks": "latest",
+    "fs-extra": "latest"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidmann4/ogar-feeder-bot.git"
+  },
+  "keywords": [
+    "break",
+    "bots",
+    "v5"
+  ],
+  "author": "Break",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/davidmann4/agario-feeder-bot/issues"
+  },
+  "homepage": "https://github.com/davidmann4/agario-feeder-bot#readme"
+}
